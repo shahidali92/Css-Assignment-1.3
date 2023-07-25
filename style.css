@@ -1,0 +1,93 @@
+/* table {
+    width: 70%;
+    border: 1px solid blue;
+}
+tr {
+    padding: bottom 20px;;
+    background-color: aqua;
+    text-align: center;
+}
+th{
+    color: blue;
+    background-color: tomato;
+    border: 5px solid green;
+   
+}
+th:hover{
+    transform: scale(1.2);
+    background-color: yellow;
+}
+tr.even{
+    background-color: chartreuse;
+}
+td:hover{
+    background-color:gold;
+    cursor: pointer;
+    transform: scale(1.2);
+    
+}
+td{
+    border: 5px solid green;
+    empty-cells: hide;
+} */
+
+
+body{
+    border: 5px solid rgb(19, 6, 6);
+    border-style:double;
+    margin: 10px;
+padding-left: 150px;
+padding-right: 150px;
+
+}
+H1{
+    text-align: center;
+   
+}
+.THE{
+    font-size: 12pt;
+    font-weight:normal;
+    
+}
+.SPECIALISTS{
+    font-size: 12pt;
+    letter-spacing: 4px;
+    font-weight: normal;
+
+}
+.ANALOG{
+    line-height: 5px;
+    margin-bottom: 1px;
+    font-size: 24pt;
+}
+
+li{
+    display: inline-block;
+    margin-right: 90px;
+    word-spacing:50px;
+    text-align:right;
+   
+}
+header{
+    border: 3px solid black;
+    border-left:none;
+    border-right: none;
+    border-bottom: 3px solid grey;
+    text-align: center;
+}
+li:hover{
+    color: red;
+    transform: scale(1.5);
+}
+img{
+    margin-left: 0%;
+    text-align: center;
+}
+.margin{
+    margin-left: 20px;
+}
+*{text-align: center;}
+p.ident{
+    text-align: justify;
+    text-indent: 50px;
+}
